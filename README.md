@@ -14,7 +14,7 @@
   * Form
 
 
-- Репозиторий проекта: https://ahma1939.github.io/posmotri_v_okno/
+- Репозиторий проекта: https://github.com/ahma1939/posmotri_v_okno
 
 **GitHub Pages**
 

@@ -1,8 +1,7 @@
-# Проект: [Посмотри в окно](https://ahma1939.github.io/posmotri_v_okno/)
+# Проект: [Посмотри в окно]
 
 ## Описание проекта:
-2-ой проект на Yande Practicum
-
+2 проект на курсе
 
 ## Стек технологий:
   * HTML;
@@ -10,9 +9,12 @@
   * Figma;
   * Git;
   * GitHub Pages;
-  * Grid;
+  * Grid layout;
   * Flexbox;
-  * Form;
+  * Form
+
+
+- Репозиторий проекта: https://ahma1939.github.io/posmotri_v_okno/
 
 **GitHub Pages**
 
